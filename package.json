@@ -1,0 +1,23 @@
+{
+	"name": "CS2D-Debugger",
+	"author": "WatPz",
+	"publisher": "WatPz",
+	"version": "0.0.1",
+
+	"main": "./src/extension",
+
+	"icon": "images/logo.ico",
+	"description": "The extension of CS2D script",
+
+	"keywords": [
+		"CS2D"
+	],
+
+	"engines": {
+		"vscode": "^1.22.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/WatPz/CS2D-Debugger"
+	}
+}
